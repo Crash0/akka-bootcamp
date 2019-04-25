@@ -25,7 +25,7 @@ Actors communicate with each other just as humans do, by exchanging messages. Th
 ```csharp
 //this is a message!
 public class SomeMessage{
-	public int SomeValue {get; set}
+	public int SomeValue {get; set;}
 }
 ```
 
